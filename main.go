@@ -65,7 +65,7 @@ func main() {
 			"FirstName:":  person.FirstName,
 			"LastName":    person.LastName,
 			"Uptime":      person.uptime(1975, time.January, 15, 03, 15, 00, 211),
-			"Message":     "Made with ❤️ using 🍺.",
+			"Message":     "Made with 🍺.",
 			"Social":      social,
 			"X-Projects":  projects,
 			"X-Donations": donations,
